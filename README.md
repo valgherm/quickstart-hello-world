@@ -2,4 +2,4 @@
 ---
 ## Initiating on Git and GitHub: GitHub Docs > Get Started > Hello World.
 
-Following the documentation available on *GitHub Docs and Skills*, I am starting my journey into the Git world to put it in practice while learnig programming language. 
+Following the documentation available on *GitHub Docs and Skills*, I am starting my journey into the Git world to put it in practice while learning a ==programming language==. 
